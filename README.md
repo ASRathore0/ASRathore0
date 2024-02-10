@@ -1,7 +1,7 @@
  <h1 align="center">Hi 👋, I'm Amit</h1>
 <h3 align="center">A Dedicated Computer science engineering Student from India</h3>
 
-<img aling="right" alt="coding" width="400" src="https://media.tenor.com/Aw2-4sShkCUAAAAd/coding.gif">
+<img align="right" alt="coding" width="400" src="https://media.tenor.com/Aw2-4sShkCUAAAAd/coding.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=asrathore0&label=Profile%20views&color=0e75b6&style=flat" alt="asrathore0" /> </p>
 
