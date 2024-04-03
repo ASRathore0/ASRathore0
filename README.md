@@ -1,6 +1,6 @@
 ![logo](https://github.com/ASRathore0/ASRathore0/blob/main/WhatsApp%20Image%202024-02-10%20at%2017.49.18_a8eb5298.jpg)
  <h1 align="center">Hi 👋, I'm Amit</h1>
-<h3 align="center">A Dedicated Computer science engineering Student from India</h3>
+<h3 align="center">A passionate Computer science engineering Student from India</h3>
 
 <img align="right" alt="coding" width="350" src="https://media.tenor.com/Aw2-4sShkCUAAAAd/coding.gif">
 
